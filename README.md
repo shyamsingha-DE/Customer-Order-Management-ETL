@@ -109,6 +109,7 @@ Delta Lake
 Spark SQL
 Databricks / Spark environment
 SQL
+
 📂 Project Structure
 Customer-Order-Management-ETL/
 │
@@ -121,6 +122,7 @@ Customer-Order-Management-ETL/
 │
 └── screenshots/
     └── README.md
+
 🚀 Key PySpark Concepts Demonstrated
 DataFrame transformations
 withColumn()
@@ -139,6 +141,7 @@ sum() / avg() / count()
 Duplicate detection
 Delta Lake read/write
 Delta persistence and read-back verification
+
 🎯 Business Value
 
 This pipeline demonstrates how raw operational data can be transformed into reliable, analytics-ready information.
@@ -158,6 +161,7 @@ Validating relationships between datasets
 Building customer-level analytical aggregates
 Persisting datasets using Delta Lake
 Performing post-write verification
+
 👨‍💻 Author
 
 Shyam Singha
